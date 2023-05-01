@@ -1,0 +1,275 @@
+[
+    {
+        "id":1,
+        "chefName":"Tommy Miah",
+        "img":"https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/tommy_miah.jpg",
+        "experience": 30,
+        "like":500,
+        "number":20,
+        "recipe":[
+            {
+                "name":"Beef Roast",
+                "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place beef roast in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Chicken Curry",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":2,
+        "chefName":"Keka Ferdousi",
+        "img":"https://prod-media-eng.dhakatribune.com/uploads/2016/10/Image-1-11.jpg",
+        "experience": 20,
+        "like":400,
+        "number":10,
+        "recipe":[
+            {
+                "name":"Noodles",
+                "ingredients":["Noodles","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place noodles in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Curried Lentils and Rice",
+                "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind","Rice"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":3,
+        "chefName":"Ahmed Hossain",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ahmed_Hossain_Chef_Dhaka_Regency.jpg/1200px-Ahmed_Hossain_Chef_Dhaka_Regency.jpg",
+        "experience": 20,
+        "like":400,
+        "number":10,
+        "recipe":[
+            {
+                "name":"Chicken Pakora",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":4.5
+            },
+            {
+                "name":"Fried Rice",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind","Rice"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+
+    {
+        "id":4,
+        "chefName":"Siddika Kabir",
+        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
+        "experience": 30,
+        "like":300,
+        "number":20,
+        "recipe":[
+            {
+                "name":"Chicken Pakora",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":4.5
+            },
+            {
+                "name":"Fried Rice",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind","Rice"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+    {
+        "id":5,
+        "chefName":"Manik Mia",
+        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+        "experience": 15,
+        "like":200,
+        "number":15,
+        "recipe":[
+            {
+                "name":"Chicken ",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":4.5
+            },
+            {
+                "name":"Beef Roast",
+                "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    },
+    {
+        "id":6,
+        "chefName":"Tony",
+        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+        "experience": 20,
+        "like":450,
+        "number":25,
+        "recipe":[
+            {
+                "name":"Chicken ",
+                "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place chicken in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":4.5
+            },
+            {
+                "name":"Beef Roast",
+                "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place beef and rice in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            },
+            {
+                "name":"Mutton Curry",
+                "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
+                "steps": [
+                    "Place Mutton in crock pot.",
+                    "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+                    "Pour the water around the roast.",
+                    "Cook on low for 7-9 hours."
+                ],
+                "rating":5
+            }
+
+        ]
+    
+    }
+]
