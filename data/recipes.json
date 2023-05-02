@@ -1,13 +1,15 @@
 [
     {
         "id":1,
-        "chefName":"Tommy Miah",
-        "img":"https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/tommy_miah.jpg",
+        "chefName":"Chan Yan-tak",
+        "img":"https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2018/03/12/c2e5ece5caf84e1eb98fef410e24e487_DSC07641+copy.JPG",
         "experience": "32 Years",
         "like":500,
         "number":20,
+        "bio": "Chef Chan Yan-tak learning the art of Traditional Chinese Cuisine in 1987, when he was just 18 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Beef Roast",
                 "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -19,6 +21,7 @@
                 "rating":5
             },
             {
+                "id":2,
                 "name":"Chicken Curry",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -30,6 +33,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -47,13 +51,15 @@
 
     {
         "id":2,
-        "chefName":"Keka Ferdousi",
-        "img":"https://prod-media-eng.dhakatribune.com/uploads/2016/10/Image-1-11.jpg",
+        "chefName":"Peter Chang",
+        "img":"https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/peter-chang-the-new-york-times-1536x1024.jpg",
         "experience": "27 Years",
         "like":400,
         "number":10,
+        "bio": "Chef Peter Chang learning the art of Traditional Chinese Cuisine in 1987, when he was just 23 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Noodles",
                 "ingredients":["Noodles","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -65,6 +71,7 @@
                 "rating":5
             },
             {
+                "id":2,
                 "name":"Curried Lentils and Rice",
                 "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind","Rice"],
                 "steps": [
@@ -76,6 +83,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -93,13 +101,15 @@
 
     {
         "id":3,
-        "chefName":"Ahmed Hossain",
-        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ahmed_Hossain_Chef_Dhaka_Regency.jpg/1200px-Ahmed_Hossain_Chef_Dhaka_Regency.jpg",
+        "chefName":"Susanna Foo",
+        "img":"https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/susanna-foo-the-spruce-eats-1024x1024.jpg",
         "experience": "23 Years",
         "like":400,
         "number":10,
+        "bio": "Chef Susanna Foo learning the art of Traditional Chinese Cuisine in 1987, when he was just 19 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Chicken Pakora",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -111,6 +121,7 @@
                 "rating":4.5
             },
             {
+                "id":2,
                 "name":"Fried Rice",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind","Rice"],
                 "steps": [
@@ -122,6 +133,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -139,13 +151,15 @@
 
     {
         "id":4,
-        "chefName":"Siddika Kabir",
-        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
+        "chefName":"Mei Lin",
+        "img":"https://www.discoverwalks.com/blog/wp-content/uploads/2022/05/mei-lin-bravo-tv-1536x1024.jpg",
         "experience": "25 Years",
         "like":300,
         "number":20,
+        "bio": "Chef Mei Lin learning the art of Traditional Chinese Cuisine in 1987, when he was just 22 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Chicken Pakora",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -157,6 +171,7 @@
                 "rating":4.5
             },
             {
+                "id":2,
                 "name":"Fried Rice",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind","Rice"],
                 "steps": [
@@ -168,6 +183,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -184,13 +200,15 @@
     },
     {
         "id":5,
-        "chefName":"Manik Mia",
-        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+        "chefName":"Martin Yan",
+        "img":"https://www.eastwestbank.com/content/dam/ewb-dotcom/reachfurther/newsarticlestore/484/Chef-Martin-Yan-top.jpg",
         "experience": "15 Years",
         "like":200,
         "number":15,
+        "bio": "Chef Martin Yan learning the art of Traditional Chinese Cuisine in 1987, when he was just 27 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Chicken ",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -202,6 +220,7 @@
                 "rating":4.5
             },
             {
+                "id":2,
                 "name":"Beef Roast",
                 "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -213,6 +232,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -229,13 +249,15 @@
     },
     {
         "id":6,
-        "chefName":"Tony",
-        "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+        "chefName":"Ken Hom",
+        "img":"https://app-tac-umbraco-prod.azurewebsites.net/media/b1iowofk/live-auction-lox-5-ken-hom.jpg",
         "experience": "18 Years",
         "like":450,
         "number":25,
+        "bio": "Chef Ken Hom learning the art of Traditional Chinese Cuisine in 1987, when he was just 22 years old. He underwent systematic training in Shanghai to master many skills, such as knife work, selecting ingredients, seasoning, and temperature control. After many years of hard work, he developed a thorough understanding of Chinese Cuisine’s various styles.",
         "recipe":[
             {
+                "id":1,
                 "name":"Chicken ",
                 "ingredients":["Chicken","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -247,6 +269,7 @@
                 "rating":4.5
             },
             {
+                "id":2,
                 "name":"Beef Roast",
                 "ingredients":["Beef","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [
@@ -258,6 +281,7 @@
                 "rating":5
             },
             {
+                "id":3,
                 "name":"Mutton Curry",
                 "ingredients":["Mutton","Onion","Soyabin","Chile","Tamarind"],
                 "steps": [

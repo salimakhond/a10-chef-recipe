@@ -19,7 +19,9 @@ app.get('/recipes', (req, res) => {
 });
 
 app.get('/recipes/:id', (req, res) => {
-    console.log('id find')
+    const id = req.params.id;
+    const singleRecipes = recipes.find(r => r.id == id);
+    res.send(singleRecipes)
 })
 
 
