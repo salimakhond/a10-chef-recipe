@@ -3,7 +3,7 @@
         "id":1,
         "chefName":"Tommy Miah",
         "img":"https://tds-images.thedailystar.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/feature/images/tommy_miah.jpg",
-        "experience": 30,
+        "experience": "32 Years",
         "like":500,
         "number":20,
         "recipe":[
@@ -49,7 +49,7 @@
         "id":2,
         "chefName":"Keka Ferdousi",
         "img":"https://prod-media-eng.dhakatribune.com/uploads/2016/10/Image-1-11.jpg",
-        "experience": 20,
+        "experience": "27 Years",
         "like":400,
         "number":10,
         "recipe":[
@@ -95,7 +95,7 @@
         "id":3,
         "chefName":"Ahmed Hossain",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ahmed_Hossain_Chef_Dhaka_Regency.jpg/1200px-Ahmed_Hossain_Chef_Dhaka_Regency.jpg",
-        "experience": 20,
+        "experience": "23 Years",
         "like":400,
         "number":10,
         "recipe":[
@@ -141,7 +141,7 @@
         "id":4,
         "chefName":"Siddika Kabir",
         "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
-        "experience": 30,
+        "experience": "25 Years",
         "like":300,
         "number":20,
         "recipe":[
@@ -186,7 +186,7 @@
         "id":5,
         "chefName":"Manik Mia",
         "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
-        "experience": 15,
+        "experience": "15 Years",
         "like":200,
         "number":15,
         "recipe":[
@@ -231,7 +231,7 @@
         "id":6,
         "chefName":"Tony",
         "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
-        "experience": 20,
+        "experience": "18 Years",
         "like":450,
         "number":25,
         "recipe":[

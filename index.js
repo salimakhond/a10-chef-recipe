@@ -18,6 +18,10 @@ app.get('/recipes', (req, res) => {
     res.send(recipes)
 });
 
+app.get('/recipes/:id', (req, res) => {
+    console.log('id find')
+})
+
 
 app.listen(port, () => {
     console.log(`recipes API is running on port: ${port}`)
